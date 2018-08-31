@@ -41,7 +41,7 @@ const employeeList = [
   }
 ];
 
-const userCommand =  prompt('enter command here!').toLowerCase();
+const userCommand =  prompt('Enter command here! Available commands are: print, update, verify, lookup, delete, conains, and add').toLowerCase();
 
 if(userCommand === 'print'){
   for(let i=0;i<employeeList.length;i++){

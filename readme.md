@@ -40,8 +40,7 @@ Create a program that does all of the following:
   * delete the object with this name property from the array entirely.
   * print the updated `employeeList`
 
-8. Add any new command that you like. 
-  * Document the new command in your `readme.md`. 
+ 
 
 
 
